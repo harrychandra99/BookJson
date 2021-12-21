@@ -1,0 +1,52 @@
+{
+  "topics": [
+    {
+      "id": 21,
+      "title": "Belajar coding",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "book",
+      "image": "hhttps://inc.mizanstore.com/aassets/img/com_cart/produk/belajar-coding-mengembangkan-aplikasi-yang-berguna.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 22,
+      "title": "Belajar Otodidak",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "book",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//93/MTA-3656262/informatika_buku-belajar-otodidak-mysql-teknik-pembuatan-dan-pengelolaan-database---budi-raharjo-termurah-original_full05.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 23,
+      "title": "Belajar Mandiri",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "book",
+      "image": "https://images.tokopedia.net/img/cache/700/product-1/2018/12/29/4668875/4668875_9daae20e-b96f-47c2-a9ca-6d26f7d5f52a_1560_1560.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 24,
+      "title": "Belajar Coding Android",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "book",
+      "image": "https://www.bukukita.com/babacms/displaybuku/89093_f.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    }
+  ]
+}
